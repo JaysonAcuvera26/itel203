@@ -1,0 +1,166 @@
+body{
+    background-color: gray;
+}
+
+.a1{
+    position: absolute;
+    top: 5%;
+    width: 60%;
+    height: 150%;
+    padding: 4% 2%;
+    margin: 6% 4%;
+    background-color: white;
+
+}
+
+.b1 {
+    position: absolute;
+    width: 34%;
+    height: 94%;
+    background-color: skyblue;
+  }
+
+  .b2 {
+    position: absolute;
+    right: 2%;
+    width: 60%;
+    height: 94%;
+    background-color: white;
+  }
+
+  img {
+    position: absolute;
+    width: 96%;
+    height: 24%;
+    margin: 3px;
+  }
+
+  .c1 {
+    position: absolute;
+    top: 23%;
+    width: 93%;
+    height: 75%;
+    margin: 20px 3px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    padding-left: 16px;
+    text-align: left;
+  }
+  
+  .fn, .ln{
+    line-height: 25px;
+    font-size: 50px
+  }
+  .fn {
+    font-style: oblique;
+    font-weight: normal;
+  }
+  .ln {
+    font-weight: bolder;
+  }
+  .course {
+    font-style: bold;
+    font-weight: normal;
+    line-height: 24px;
+    font-size: 25px;
+  }
+  
+  .pa1 {
+    position: absolute;
+    top: 22%;
+    line-height: 24px;
+    font-size: 20px;
+  }
+  
+  .contact {
+    position: absolute;
+    top: 50%;
+    line-height: 12px;
+  }
+  
+  .sma {
+    position: absolute;
+    top: 70%;
+    line-height: 12px;
+  }
+  
+  .ca1 {
+    margin-left: 8%;
+  }
+  
+  
+  .b2h1 {
+    font-size: 34px;
+    font-weight: bold;
+  }
+  
+  .expline, .eduline, .ssline, .referline, .exp, .edu, .ss, .refer{
+    position: absolute;
+    width: 98%;
+  }
+  
+  .expline, .eduline, .ssline, .referline {
+    height: 4px;
+    background-color: dodgerblue;
+  }
+  
+  .exp { top: 0%; }
+  .edu { top: 24%; }
+  .ss { top: 60%; }
+  .refer { top: 84%; }
+  
+  .expline { top: 18%; }
+  .eduline { top: 12%; }
+  .ssline { top: 18%; }
+  .referline { top: 28%; }
+  
+  table {
+    
+  }
+  
+  td {
+    font-size: 18px;
+    text-align: left;
+    padding-right: 16px;
+    line-height: 20px;
+  }
+  
+  .cls {
+    padding: 16px 2px;
+    font-size: 24px;
+  }
+  .con1, .con2, .con3, .con4, .con5 {
+    position: absolute;
+    width: 65%;
+    height: 8%;
+    margin: 10px 5px;
+    background-color: grey;
+  }
+  
+  .con1 { top: 25%; }
+  .con2 { top: 40%; }
+  .con3 { top: 55%; }
+  .con4 { top: 70%; }
+  .con5 { top: 85%; }
+  
+  .bar1, .bar2, .bar3, .bar4, .bar5{
+    position: absolute;
+    margin: 0.25% 0%;
+    height: 93%;
+    background-color: deepskyblue;
+  }
+  
+  .bar1 { width: 50% }
+  .bar2 { width: 35% }
+  .bar3 { width: 35% }
+  .bar4 { width: 90% }
+  .bar5 { width: 65% }
+  
+  a {
+    text-decoration: none;
+  }
+  .alink { color: whitesmoke}
+  .blink { color: deepskyblue; }
+  .rtd {
+    line-height: 15px;
+  }
